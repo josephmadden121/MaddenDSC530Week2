@@ -3,7 +3,7 @@
 # Greeting 
 print("Hello World! I wonder why that is always the default coding text to start with") 
 
-# Sum of the two numbers print)"\n") 
+# Sum of the two numbers print("\n") 
 sum = int(14 + 7) 
 print(sum) print("\n") 
 
